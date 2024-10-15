@@ -17,9 +17,4 @@ int main(){
     default:
         break;
     }
-
-    //following is added by dev1
-    char s;
-    printf("Enter the operetor");
-    scanf("%c",s);
 }
