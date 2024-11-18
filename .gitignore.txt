@@ -1,1 +1,1 @@
-dont_track_file.txt
+# Don't track dont_track2.txt file dont_track2.txt
