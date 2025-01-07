@@ -1,1 +1,2 @@
-hello world wiriting the instruction to revert and rebase example
+hello world wiriting the instruction to revert and rebase example 
+this is stash example
