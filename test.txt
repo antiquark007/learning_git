@@ -1,6 +1,2 @@
-this is for merge 
-example
+new addition
 this is for the 
-the b1 branch
-this will merged
-b1
