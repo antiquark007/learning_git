@@ -3,4 +3,4 @@ hello world wiriting the instruction to revert and rebase example
 this is stash example
 this is the change made from the linux shell
 these are the changes from the the ved user of linux
- 
+this is th new commit for cherry-pick 
