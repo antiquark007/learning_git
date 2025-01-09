@@ -2,3 +2,9 @@ new addition
 this is for the 
 the b1 branch
 this will mergd
+this is for merge 
+example
+this is for the 
+the b1 branch
+this will merged
+b1
