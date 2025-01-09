@@ -1,13 +1,4 @@
 new addition
 this is for the 
 the b1 branch
-this will merged
-
-this will be rebse
-
-this is for merge 
-example
-
-b1
-
-this is for the reba(will use revert)
+this will mergd
